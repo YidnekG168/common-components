@@ -17,7 +17,7 @@ export const test = () => <div>
     borderColor: "#007bff",
     color: "#fff",
     paddingLeft: "5px",
-    paddinRight: "5px";
+    paddinRight: "5px"
 }}>Go somewhere</div>
   
   </div>
